@@ -1,0 +1,53 @@
+{
+  "_args": [
+    [
+      "git+https://gitlab.intecracy.com/LabArchives/react-native-wheel-picker.git",
+      "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives"
+    ]
+  ],
+  "_from": "git+https://gitlab.intecracy.com/LabArchives/react-native-wheel-picker.git",
+  "_id": "react-native-wheel-picker@git+https://gitlab.intecracy.com/LabArchives/react-native-wheel-picker.git#d2adbc5f9b0779d18d3ad8bd6fa2361bdda09dcc",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-wheel-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://gitlab.intecracy.com/LabArchives/react-native-wheel-picker.git",
+    "rawSpec": "git+https://gitlab.intecracy.com/LabArchives/react-native-wheel-picker.git",
+    "saveSpec": "git+https://gitlab.intecracy.com/LabArchives/react-native-wheel-picker.git",
+    "fetchSpec": "https://gitlab.intecracy.com/LabArchives/react-native-wheel-picker.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://gitlab.intecracy.com/LabArchives/react-native-wheel-picker.git#d2adbc5f9b0779d18d3ad8bd6fa2361bdda09dcc",
+  "_spec": "git+https://gitlab.intecracy.com/LabArchives/react-native-wheel-picker.git",
+  "_where": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives",
+  "author": {
+    "name": "Yu Zheng"
+  },
+  "bugs": {
+    "url": "https://github.com/lesliesam/react-native-wheel-picker/issues"
+  },
+  "dependencies": {},
+  "description": "React native cross platform picker.",
+  "homepage": "https://github.com/lesliesam/react-native-wheel-picker#readme",
+  "keywords": [
+    "react-native",
+    "picker",
+    "wheel"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-wheel-picker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesliesam/react-native-wheel-picker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}
